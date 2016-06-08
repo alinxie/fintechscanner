@@ -1,1 +1,1 @@
-# fintechscanner.github.io
+# Fintech Scanner
